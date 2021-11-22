@@ -1,0 +1,42 @@
+#uni{
+    padding: 10px 50px;
+}
+/* Header */
+
+.nme{
+    background: rgb(100, 100, 247);
+    color: white;
+    margin-bottom: 0px;
+}
+#mle{
+    margin-top: 0%;
+    background: rgb(176, 179, 224);
+    margin-top: 0px;
+    overflow: auto;
+}
+
+#mail{
+    float: left;
+}
+#mobile{
+    float: right;
+}
+.edu{
+    margin-top: 100px;
+}
+table{
+   
+    width: 100%;
+}
+
+table,th,td{
+    border: 1px solid black;
+
+}
+.projects{
+    box-sizing: border-box;
+    columns: 3;
+}
+#wi33{
+    width: 33.33%;
+}
